@@ -12,4 +12,4 @@ Programmer && Gamer
 - python3
 - c#
 
-## Thanks for taking the time
+## Thanks for taking the time♡♡
