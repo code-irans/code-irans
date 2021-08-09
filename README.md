@@ -3,7 +3,7 @@
 <pre>
 
 Hello My names is Alireza Zare
-Programmer && Gamer
+Programmer && Graphic Designer
 
 </pre>
 
